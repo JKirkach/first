@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(219, 41, 41);
+}
+
+.clas1 {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
